@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dRudjxSx2A9NWllW+r0XWrWinU1w20rNUG3FUcXnp27oJTlVzzpMIiiO8t9fGvXHxuCX2ay0fDTquDvuAajN+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeek2\\OneDrive\\Escritorio\\Proyecto-Voz\\Proyecto-Voz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeek2\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.24.1\\microsoft.cognitiveservices.speech.1.24.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\zeek2\OneDrive\Escritorio\Proyecto-Voz\obj\Debug\net6.0\Proyecto-Voz.csproj.AssemblyReference.cache
+C:\Users\zeek2\OneDrive\Escritorio\Proyecto-Voz\obj\Debug\net6.0\Proyecto-Voz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeek2\OneDrive\Escritorio\Proyecto-Voz\obj\Debug\net6.0\Proyecto-Voz.AssemblyInfoInputs.cache
+C:\Users\zeek2\OneDrive\Escritorio\Proyecto-Voz\obj\Debug\net6.0\Proyecto-Voz.AssemblyInfo.cs
+C:\Users\zeek2\OneDrive\Escritorio\Proyecto-Voz\obj\Debug\net6.0\Proyecto-Voz.csproj.CoreCompileInputs.cache
